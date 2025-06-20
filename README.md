@@ -72,11 +72,13 @@ We propose a **hybrid edge-cloud framework** where:
 If you find this research helpful, please consider citing:
 
 ```bibtex
-@inproceedings{devendraparihar,
-  title={A Data-Centric Approach to Weather Prediction: IoT and Machine Learning on Drone Platforms},
-  author={Devendra Parihar and Ajay Chaudhary and Shreehitha Peddoju and Kavitha Kadarla},
-  booktitle={InGARSS 2024},
-  year={2024}
+@inproceedings{inproceedings,
+author = {Parihar, Devendra and Chaudhary, Ajay and Peddoju, Shreehitha and Kadarla, Kavitha},
+year = {2024},
+month = {12},
+pages = {1-4},
+title = {A Data-Centric Approach to Weather Prediction: IoT and Machine Learning on Drone Platforms},
+doi = {10.1109/InGARSS61818.2024.10984355}
 }
 ```
 
