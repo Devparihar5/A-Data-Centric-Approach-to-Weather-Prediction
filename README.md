@@ -72,23 +72,16 @@ We propose a **hybrid edge-cloud framework** where:
 If you find this research helpful, please consider citing:
 
 ```bibtex
-@inproceedings{inproceedings,
-author = {Parihar, Devendra and Chaudhary, Ajay and Peddoju, Shreehitha and Kadarla, Kavitha},
-year = {2024},
-month = {12},
-pages = {1-4},
-title = {A Data-Centric Approach to Weather Prediction: IoT and Machine Learning on Drone Platforms},
-doi = {10.1109/InGARSS61818.2024.10984355}
-}
-```
-
----
-
-## 📁 Repository Structure
-
-```
-├── InGARSS-24.pdf           # Full research paper
-├── README.md                # This file
+@INPROCEEDINGS{10984355,
+  author={Parihar, Devendra and Chaudhary, Ajay and Peddoju, Shreehitha and Kadarla, Kavitha},
+  booktitle={2024 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)}, 
+  title={A Data-Centric Approach to Weather Prediction: IoT and Machine Learning on Drone Platforms}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Machine learning algorithms;Accuracy;Computational modeling;Decision making;Weather forecasting;Machine learning;Prediction algorithms;Sensors;Internet of Things;Drones;Internet of Things;IoT;Edge Node;Drone;Weahter Predition;Weather Forecasting;Precision Farming;Smart Agriculture;Machine Learning},
+  doi={10.1109/InGARSS61818.2024.10984355}}
 ```
 
 ---
